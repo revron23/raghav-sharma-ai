@@ -2,12 +2,17 @@
 <h3 align="center">Machine Learning Engineer | AI & Deep Learning Enthusiast</h3>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/UQJlZ2OcaCA2RLfGiZ/giphy.gif" width="420" alt="AI Neural Brain Animation"/>
+  <img src="https://github.com/revron23/raghav-sharma-ai/blob/main/assets/stack/ai-hero-2.gif" width="420" alt="AI Neural Brain Animation"/>
 </p>
 
 ---
 
 ### 🧠 About Me
+<table>
+  <tr>
+    <!-- LEFT: bullet points -->
+    <td valign="top" width="80%">
+      
 - 🎓 **B.Tech CSE (AI & ML)** – Vellore Institute of Technology, Bhopal  
 - 💡 Passionate about **Artificial Intelligence, Deep Learning, and NLP**  
 - 🧩 Focused on **AI system design** & scalable data-driven models  
@@ -15,9 +20,17 @@
 - 🧬 Attended **PreProdCorp AI Workshop** – Gait Abnormality Detection  
 - 🌱 Currently learning **MLOps & Model Deployment**
 
----
+    </td>
 
-### ⚙️ Tech Stack
+    <!-- RIGHT: image / gif -->
+    <td align="center" width="40%">
+      <img src="https://github.com/revron23/raghav-sharma-ai/blob/main/assets/stack/20251027_2358_New%20Video_simple_compose_01k8ketsqceh597dvqppy8kwnf.gif" width="260">
+      <!-- You can replace with any local file, e.g. assets/stack/about-right.gif -->
+    </td>
+  </tr>
+</table>
+
+---
 
 <!-- TECH STACK (Animated Tiles) -->
 <h3>⚙️ Tech Stack</h3>
@@ -115,7 +128,7 @@
 ---
 
 <p align="center">
-  <img src="20251027_2358_New Video_simple_compose_01k8ketsqceh597dvqppy8kwnf.gif" width="400" alt="AI Wave Animation"/>
+  <img src="https://github.com/revron23/raghav-sharma-ai/blob/main/assets/stack/yy3.gif" width="400" alt="AI Wave Animation"/>
 </p>
 
 <p align="center">
