@@ -19,18 +19,56 @@
 
 ### ⚙️ Tech Stack
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,sklearn,flask,streamlit,mysql,git,docker,aws,vscode" />
-</p>
+<!-- TECH STACK (Animated Tiles) -->
+<h3>⚙️ Tech Stack</h3>
 
-| **Category** | **Tools** |
-|---------------|-----------|
-| **Languages** | Python, Java, SQL |
-| **Frameworks** | TensorFlow, PyTorch, Scikit-learn, Flask |
-| **Libraries** | Pandas, NumPy, spaCy, NLTK |
-| **Tools & IDEs** | Jupyter Notebook, Google Colab, PyCharm |
-| **Version Control** | Git, GitHub |
-| **Cloud** | AWS (Basics) |
+<table>
+  <tr>
+    <td align="center" width="120">
+      <img src="assets/stack/python.gif" width="48" alt="Python"><br/>
+      <sub><b>Python</b></sub>
+    </td>
+    <td align="center" width="120">
+      <img src="assets/stack/tensorflow.gif" width="48" alt="TensorFlow"><br/>
+      <sub><b>TensorFlow</b></sub>
+    </td>
+    <td align="center" width="120">
+      <img src="assets/stack/pytorch.gif" width="48" alt="PyTorch"><br/>
+      <sub><b>PyTorch</b></sub>
+    </td>
+    <td align="center" width="120">
+      <img src="assets/stack/sklearn.gif" width="48" alt="scikit-learn"><br/>
+      <sub><b>scikit-learn</b></sub>
+    </td>
+    <td align="center" width="120">
+      <img src="assets/stack/pandas.gif" width="48" alt="Pandas"><br/>
+      <sub><b>Pandas</b></sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="assets/stack/numpy.gif" width="48" alt="NumPy"><br/>
+      <sub><b>NumPy</b></sub>
+    </td>
+    <td align="center">
+      <img src="assets/stack/flask.gif" width="48" alt="Flask"><br/>
+      <sub><b>Flask</b></sub>
+    </td>
+    <td align="center">
+      <img src="assets/stack/streamlit.gif" width="48" alt="Streamlit"><br/>
+      <sub><b>Streamlit</b></sub>
+    </td>
+    <td align="center">
+      <img src="assets/stack/docker.gif" width="48" alt="Docker"><br/>
+      <sub><b>Docker</b></sub>
+    </td>
+    <td align="center">
+      <img src="assets/stack/aws.gif" width="48" alt="AWS"><br/>
+      <sub><b>AWS</b></sub>
+    </td>
+  </tr>
+</table>
+
 
 ---
 
@@ -77,7 +115,7 @@
 ---
 
 <p align="center">
-  <img src="https://media.giphy.com/media/Y3J8r8JHjvMz1nVDcj/giphy.gif" width="400" alt="AI Wave Animation"/>
+  <img src="20251027_2358_New Video_simple_compose_01k8ketsqceh597dvqppy8kwnf.gif" width="400" alt="AI Wave Animation"/>
 </p>
 
 <p align="center">
